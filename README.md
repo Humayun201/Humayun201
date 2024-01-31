@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@Humayun21631929" target="blank"><img src="https://img.shields.io/twitter/follow/humayun216?logo=twitter&style=for-the-badge" alt="humayun216" /></a> </p>
 
-- 🌱 I’m currently learning **Data structure and Algorithm**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **OOP,programming Fundamentals,IICT,Computer Architecture**
+- 💬 Ask me about **OOP,programming Fundamentals,IICT,Computer Architecture,operating system ,java, Design Algorithm,computer Networks,graph Theory, Data structure and Algorithm, **
 
 - 📫 How to reach me **manoawan27@gmail.com**
 
